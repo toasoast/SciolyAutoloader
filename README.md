@@ -10,7 +10,7 @@ This is my take on an autoloader used for Bridge, Boomilever, and Tower.
 |----------------------------------|-------------|-----------|-----------|
 | 2020 extrusion                   | See cutlist | $120      | tnutz.com |
 | 2020 corners + mounting hardware | Min. 40     | $26       |           |
-| 5 gal. water bottle              | 1           | ~$16      |           |
+| 5 gal. water bottle              | 1           | $16       |           |
 | 1/2 in. rod                      | 2           | $10       |           |
 | 2 in. PVC pipe                   | 1           | $8        |           |
 | 2 in PVC 45 deg elbow            | 1           | $3        |           |
