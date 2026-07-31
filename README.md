@@ -1,4 +1,4 @@
-# Scioly-Balsa-Event-Autoloader
+# Scioly Balsa Event Autoloader
 
 This is my take on an autoloader used for Bridge, Boomilever, and Tower.
 
