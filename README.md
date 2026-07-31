@@ -1,6 +1,6 @@
 # Scioly-Balsa-Event-Autoloader
 
-This is my take on the autoloader used for Bridge, Boomilever, and Tower.
+This is my take on an autoloader used for Bridge, Boomilever, and Tower.
 
 # Parts List
 
