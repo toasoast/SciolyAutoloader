@@ -17,3 +17,13 @@ This is my take on an autoloader used for Bridge, Boomilever, and Tower.
 | 2 in PVC flexible adapter        | 1           | $7        |           |
 | Set screws                       | See below   | See below |           |
 | 3d printed parts                 | See below   | See below |           |
+
+## Cutlist
+
+| 2020 Extrusion Length | Qty | Notes                    |
+|-----------------------|-----|--------------------------|
+| 30 in                 | 4   | Optional M6 tap for feet |
+| 15 in                 | 6   |                          |
+| 25 in                 | 4   |                          |
+| 20 in                 | 4   |                          |
+| 8 in                  | 4   |                          |
