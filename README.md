@@ -8,18 +8,18 @@ This is my take on an autoloader used for Bridge, Boomilever, and Tower. It uses
 
 ## Part List
 
-| Part                             | Qty          | Price     | Source    |
-|----------------------------------|--------------|-----------|-----------|
-| 2020 extrusion                   | See cut list | $112      | tnutz.com |
-| 2020 M6 feet (optional)          | 4            | $8        | tnutz.com |
-| 2020 corners + mounting hardware | Min. 40      | $26       |           |
-| 5 gal. water bottle              | 1            | $16       | See below |
-| 1/2 in. aluminum rod             | 2            | $10       |           |
-| 2 in. x 12 in. PVC pipe          | 1            | $8        |           |
-| 2 in PVC 45 deg elbow            | 1            | $3        |           |
-| 2 in PVC flexible adapter        | 1            | $7        |           |
-| Set screws                       | See below    | See below |           |
-| 3d printed parts                 | See below    | See below |           |
+| Part                             | Qty          | Price     | Source                                                                                                                 |
+|----------------------------------|--------------|-----------|------------------------------------------------------------------------------------------------------------------------|
+| 2020 extrusion                   | See cut list | $112      | [tnutz.com](https://www.tnutz.com/product/exm-2020/)                                                                   |
+| 2020 M6 feet (optional)          | 4            | $8        | [tnutz.com](https://www.tnutz.com/product/lf-020-a/)                                                                   |
+| 2020 corners + mounting hardware | Min. 40      | $26       |                                                                                                                        |
+| 5 gal. water bottle              | 1            | $16       | See below                                                                                                              |
+| 1/2 in. aluminum rod             | 2            | $10       | [Amazon](https://www.amazon.com/dp/B0GJHNZRNZ)                                                                         |
+| 2 in. x 12 in. PVC pipe          | 1            | $8        | [Home Depot](https://www.homedepot.com/p/Charlotte-Pipe-2-in-x-2-ft-PVC-DWV-Schedule-40-Pipe-PVC072000200HA/100585960) |
+| 2 in PVC 45 deg elbow            | 1            | $3        | [Home Depot](https://www.homedepot.com/p/NIBCO-2-in-PVC-DWV-45-Degree-Hub-x-Hub-Elbow-C4806HD2/100346919)              |
+| 2 in PVC flexible adapter        | 1            | $7        | [Home Depot](https://www.homedepot.com/p/Fernco-2-in-x-2-in-DWV-Flexible-PVC-Coupling-P1056-22/100096490)              |
+| Set screws                       | See below    | See below | See below                                                                                                              |
+| 3d printed parts                 | See below    | See below | Printer                                                                                                                |
 
 ## Cut List
 
