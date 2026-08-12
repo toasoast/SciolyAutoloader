@@ -12,7 +12,7 @@ This is my take on an autoloader used for Bridge, Boomilever, and Tower. It uses
 |----------------------------------|--------------|-----------|------------------------------------------------------------------------------------------------------------------------|
 | 2020 extrusion                   | See cut list | $112      | [tnutz.com](https://www.tnutz.com/product/exm-2020/)                                                                   |
 | 2020 M6 feet (optional)          | 4            | $8        | [tnutz.com](https://www.tnutz.com/product/lf-020-a/)                                                                   |
-| 2020 corners + mounting hardware | Min. 40      | $26       |                                                                                                                        |
+| 2020 corners + mounting hardware | Min. 36      | $26       | See below                                                                                                              |
 | 5 gal. water jug                 | 1            | $16       | See below                                                                                                              |
 | 1/2 in. aluminum rod             | 2            | $10       | [Amazon](https://www.amazon.com/dp/B0GJHNZRNZ)                                                                         |
 | 2 in. x 12 in. PVC pipe          | 1            | $8        | [Home Depot](https://www.homedepot.com/p/Charlotte-Pipe-2-in-x-2-ft-PVC-DWV-Schedule-40-Pipe-PVC072000200HA/100585960) |
@@ -21,9 +21,11 @@ This is my take on an autoloader used for Bridge, Boomilever, and Tower. It uses
 | Set screws                       | 20           | $7        | See below                                                                                                              |
 | 3d printed parts                 | See below    | See below | Printer                                                                                                                |
 
+Mounting hardware: I used 44 corner brackets on my final build but unfortunately the cheapest packs on Amazon come as 40 pieces, you could get away with only using 36 brackets. [Here](https://www.amazon.com/dp/B0FFMQ9NPP) is a link to 40 brackets, [here](https://www.amazon.com/dp/B0GF89B14F) is a link to 30 with a cheaper unit price that you could get two of to have some extra. You also need some extra T-nuts from this to screw on the rod and pipe holders.
+
 Water jug: This is best sourced locally, most grocery stores carry this. You might be able to find one for less that $16. It should be something similar to [this](https://www.homedepot.com/p/Primo-Primo-5-Gal-Water-with-Empty-Exchange-1008778394/205216096).
 
-Set screws: I happened to have #4-40x1/4" set screws on me, so that's what I designed this around. However, any similarly sized set screw should work. [Here](https://www.amazon.com/Screws-Internal-Allen-Wrench-Stainless/dp/B0CY972RP7) is the one I used, but use whatever you have or is cheapest on Amazon at the time.
+Set screws: I happened to have #4-40x1/4" set screws on me, so that's what I designed this around. However, any similarly sized set screw should work. [Here](https://www.amazon.com/dp/B0CY972RP7) is the one I used, but use whatever you have or is cheapest on Amazon at the time.
 
 ## Cut List
 
