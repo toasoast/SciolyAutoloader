@@ -22,6 +22,8 @@ This is my take on an autoloader used for Bridge, Boomilever, and Tower. It uses
 | 3d printed parts                 | See below    | See below | Printer                                                                                                                |
 | M5x16 screws                     | 4            | $5        | [Amazon as an example](https://www.amazon.com/dp/B0DGXWZJP2)                                                           |
 
+Extrusion: The cheapest source I could find for cut extrusion was from [tnutz.com](https://www.tnutz.com). If you have means to cut it yourself and have, say, a robotics team that you could steal extrusion from, 
+
 Mounting hardware: I used 44 corner brackets on my final build but unfortunately the cheapest packs on Amazon come as 40 pieces, you could get away with only using 36 brackets. [Here](https://www.amazon.com/dp/B0FFMQ9NPP) is a link to 40 brackets, [here](https://www.amazon.com/dp/B0GF89B14F) is a link to 30 with a cheaper unit price that you could get two of to have some extra. You also need some extra T-nuts from this to screw on the rod and pipe holders.
 
 Water jug: This is best sourced locally, most grocery stores carry this. You might be able to find one for less that $16. It should be something similar to [this](https://www.homedepot.com/p/Primo-Primo-5-Gal-Water-with-Empty-Exchange-1008778394/205216096).
@@ -30,13 +32,15 @@ Set screws: I happened to have #4-40x1/4" set screws on me, so that's what I des
 
 ## Cut List
 
-| 2020 Extrusion Length | Qty | Notes                    |
-|-----------------------|-----|--------------------------|
-| 30 in                 | 4   | Optional M6 tap for feet |
-| 15 in                 | 6   |                          |
-| 25 in                 | 4   |                          |
-| 20 in                 | 4   |                          |
-| 8 in                  | 4   |                          |
+| 2020 Extrusion Length | Qty |
+|-----------------------|-----|
+| 30 in                 | 4   |
+| 15 in                 | 6   |
+| 25 in                 | 4   |
+| 20 in                 | 4   |
+| 8 in                  | 4   |
+
+If you're looking to install feet and are ordering from tnutz, you can choose the M6 x 1.0 x 25mm deep tap option when ordering the 30 in extrusion pieces.
 
 ## 3D Printed Parts
 
@@ -45,3 +49,5 @@ Printing tips: the spout, shaft collars (you need 2), pipe holder, and rod holde
 If you want to use different set screws, STEP files of parts with generic 1 mm holes where set screws should go are provided.
 
 The holes on the pipe and rod holders are sized for M5x16 screws (standard T-nut size).
+
+# Assembly
