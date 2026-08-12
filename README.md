@@ -20,6 +20,7 @@ This is my take on an autoloader used for Bridge, Boomilever, and Tower. It uses
 | 2 in PVC flexible adapter        | 1            | $7        | [Home Depot](https://www.homedepot.com/p/Fernco-2-in-x-2-in-DWV-Flexible-PVC-Coupling-P1056-22/100096490)              |
 | Set screws                       | 20           | $7        | See below                                                                                                              |
 | 3d printed parts                 | See below    | See below | Printer                                                                                                                |
+| M5x16 screws                     | 4            | $5        | [Amazon as an example](https://www.amazon.com/dp/B0DGXWZJP2)                                                           |
 
 Mounting hardware: I used 44 corner brackets on my final build but unfortunately the cheapest packs on Amazon come as 40 pieces, you could get away with only using 36 brackets. [Here](https://www.amazon.com/dp/B0FFMQ9NPP) is a link to 40 brackets, [here](https://www.amazon.com/dp/B0GF89B14F) is a link to 30 with a cheaper unit price that you could get two of to have some extra. You also need some extra T-nuts from this to screw on the rod and pipe holders.
 
@@ -38,3 +39,9 @@ Set screws: I happened to have #4-40x1/4" set screws on me, so that's what I des
 | 8 in                  | 4   |                          |
 
 ## 3D Printed Parts
+
+Printing tips: the spout, shaft collars (you need 2), pipe holder, and rod holder have pretty loose tolerances. Printing the cap and corner in PETG is recommended since these parts experience a torque. The corner can crack if the set screws are overtightened, use more walls than you normally would.
+
+If you want to use different set screws, STEP files of parts with generic 1 mm holes where set screws should go are provided.
+
+The holes on the pipe and rod holders are sized for M5x16 screws (standard T-nut size).
