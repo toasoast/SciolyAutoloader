@@ -48,6 +48,8 @@ If you're looking to install feet and are ordering from tnutz, choose the M6 x 1
 
 ## 3D Printed Parts
 
+[Download link](https://github.com/toasoast/SciolyAutoloader/releases/download/v1.0.0/3dfiles.zip)
+
 Printing tips: the spout, shaft collars (you need 2), pipe holder, and rod holder have pretty loose tolerances. Printing the cap and corner in PETG is recommended since these parts experience a torque. The corner can crack if the set screws are overtightened, use more walls than you normally would.
 
 If you want to use different set screws, STEP files of parts with generic 1 mm holes where set screws should go are provided.
