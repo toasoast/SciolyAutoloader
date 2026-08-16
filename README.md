@@ -81,7 +81,7 @@ Once you have the general shape of the frame assembled, drop the water jug assem
 
 <div align ="center">
   <img src="/photos/loader incomplete.jpg" alt="Loader mid-assembly" width="50%"/>
-  <p>The loader with the pipe before cutting</p>
+  <p>The loader with uncut pipe</p>
 </div>
 
 The axle assembly should be done separately. The printed corner takes 12 set screws, the cap has 6, and each shaft collar has one. Assemble the cap, spout, shaft collars, and rod holder onto one of the rods. Tighten the set screws on the cap but leave the ones on the shaft collars loose. Attach the spout to the end of the PVC pipe and attach the rod holder to the T-nuts previously inserted into the frame using two M5x16 screws. Adjust the position of the rod holder on the frame and the position of the extrusions as needed until the rod goes through the spout straight and it rotates freely. Tighten down the set screws on the shaft collars and the screws in the extrusion corner brackets.
