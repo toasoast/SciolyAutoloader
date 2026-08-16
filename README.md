@@ -24,7 +24,7 @@ This is my take on an autoloader used for Bridge, Boomilever, and Tower. It uses
 
 Extrusion: The cheapest source I could find for cut extrusion was from [tnutz.com](https://www.tnutz.com). If you have means to cut it yourself and have, say, a robotics team that you could steal extrusion from, 
 
-Mounting hardware: I used 44 corner brackets on my final build but unfortunately the cheapest packs on Amazon come as 40 pieces, you could get away with only using 36 brackets. [Here](https://www.amazon.com/dp/B0FFMQ9NPP) is a link to 40 brackets, [here](https://www.amazon.com/dp/B0GF89B14F) is a link to 30 with a cheaper unit price that you could get two of to have some extra. You also need some extra T-nuts from this to screw on the rod and pipe holders.
+Mounting hardware: I used 44 corner brackets on my final build but unfortunately the cheapest packs on Amazon come as 40 pieces. You can get away with only using 36 brackets, leaving you with 4 extra T-nuts to screw on the rod and pipe holders. [Here](https://www.amazon.com/dp/B0FFMQ9NPP) is a link to 40 brackets, [here](https://www.amazon.com/dp/B0GF89B14F) is a link to 30 with a cheaper unit price that you could get two of to have some extra.
 
 Water jug: This is best sourced locally, most grocery stores carry this. You might be able to find one for less that $16. It should be something similar to [this](https://www.homedepot.com/p/Primo-Primo-5-Gal-Water-with-Empty-Exchange-1008778394/205216096).
 
@@ -40,7 +40,7 @@ Set screws: I happened to have #4-40x1/4" set screws on me, so that's what I des
 | 20 in                 | 4   |
 | 8 in                  | 4   |
 
-If you're looking to install feet and are ordering from tnutz, you can choose the M6 x 1.0 x 25mm deep tap option when ordering the 30 in extrusion pieces.
+If you're looking to install feet and are ordering from tnutz, choose the M6 x 1.0 x 25mm deep tap option on one end when ordering the 30 in extrusion pieces.
 
 ## 3D Printed Parts
 
