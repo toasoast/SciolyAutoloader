@@ -119,3 +119,7 @@ Here's some final photos:
   <img src="/photos/loader sand.jpg" alt="Loader with sand" width="50%"/>
   <p>Test with sand</p>
 </div>
+
+# Credits
+
+Thanks to members of the Balsa Engineering server for idea inspiration and with several design aspects.
