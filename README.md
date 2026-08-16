@@ -1,5 +1,3 @@
-# this is still under construction
-
 # Scioly Balsa Event Autoloader
 
 This is my take on an autoloader used for Bridge, Boomilever, and Tower. It uses an aluminum extrusion frame, a 5 gallon water jug to hold the sand, and some printed parts for the spout.
@@ -85,3 +83,33 @@ Once you have the general shape of the frame assembled, drop the water jug assem
   <p>The loader with the pipe before cutting</p>
 </div>
 
+The axle assembly should be done separately. The printed corner takes 12 set screws, the cap has 6, and each shaft collar has one. Assemble the cap, spout, shaft collars, and rod holder onto one of the rods. Tighten the set screws on the cap but leave the ones on the shaft collars loose. Attach the spout to the end of the PVC pipe and attach the rod holder to the T-nuts previously inserted into the frame using two M5x16 screws. Adjust the position of the rod holder on the frame and the position of the extrusions as needed until the rod goes through the spout straight and it rotates freely. Tighten down the set screws on the shaft collars and the screws in the extrusion corner brackets.
+
+<div align ="center">
+  <img src="/photos/loader axle assembly.jpg" alt="Axle assembly" width="50%"/>
+  <p>The axle of the loader</p>
+</div>
+
+<div align ="center">
+  <img src="/photos/loader axle.jpg" alt="Axle assembled" width="50%"/>
+  <p>Installed axle</p>
+</div>
+
+Separately, insert the other rod into the printed corner. This rod will act as the handle and should go in the end with 4 set screws. The axle will connect to the end with 8 set screws. Depending on your printer's tolerance, this may be quite tight, I had to use a mallet to install the handle into the corner. Then, you can install the corner onto the exposed end of the axle. Tighten down the set screws (don't overtighten though since they corner can crack!). You should now be able to open the spout with the handle.
+
+<div align ="center">
+  <img src="/photos/loader corner.jpg" alt="Axle corner" width="50%"/>
+  <p>The installed corner</p>
+</div>
+
+Here's some final photos:
+
+<div align ="center">
+  <img src="/photos/loader iso.jpg" alt="View of the complete loader" width="50%"/>
+  <p>The completed loader!</p>
+</div>
+
+<div align ="center">
+  <img src="/photos/loader sand.jpg" alt="Loader with sand" width="50%"/>
+  <p>Test with sand</p>
+</div>
