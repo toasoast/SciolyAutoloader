@@ -96,6 +96,11 @@ The axle assembly should be done separately. The printed corner takes 12 set scr
   <p>Installed axle</p>
 </div>
 
+<div align ="center">
+  <img src="/photos/loader spout.jpg" alt="Loader spout" width="50%"/>
+  <p>Spout of the loader</p>
+</div>
+
 Separately, insert the other rod into the printed corner. This rod will act as the handle and should go in the end with 4 set screws. The axle will connect to the end with 8 set screws. Depending on your printer's tolerance, this may be quite tight, I had to use a mallet to install the handle into the corner. Then, you can install the corner onto the exposed end of the axle. Tighten down the set screws (don't overtighten though since they corner can crack!). You should now be able to open the spout with the handle.
 
 <div align ="center">
