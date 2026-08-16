@@ -24,6 +24,7 @@ This is my take on an autoloader used for Bridge, Boomilever, and Tower. It uses
 | Set screws                       | 20           | $7        | See below                                                                                                              |
 | 3d printed parts                 | See below    | See below | Printer                                                                                                                |
 | M5x16 screws                     | 4            | $5        | [Amazon as an example](https://www.amazon.com/dp/B0DGXWZJP2)                                                           |
+| Total                            |              | ~$200     |                                                                                                                        |
 
 Extrusion: The cheapest source I could find for cut extrusion was from [tnutz.com](https://www.tnutz.com). If you have means to cut it yourself and have, say, a robotics team that you could steal extrusion from, 
 
