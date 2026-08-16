@@ -4,6 +4,11 @@
 
 This is my take on an autoloader used for Bridge, Boomilever, and Tower. It uses an aluminum extrusion frame, a 5 gallon water jug to hold the sand, and some printed parts for the spout.
 
+<div align ="center">
+  <img src="/photos/loader side.jpg" alt="Side view of autoloader" width="50%"/>
+  <p>Side view of the loader</p>
+</div>
+
 # Materials
 
 ## Part List
@@ -51,3 +56,32 @@ If you want to use different set screws, STEP files of parts with generic 1 mm h
 The holes on the pipe and rod holders are sized for M5x16 screws (standard T-nut size).
 
 # Assembly
+
+<div align ="center">
+  <img src="/photos/loader extrusion.jpg" alt="Aluminum extrusion" width="40%"/>
+  <p>tnutz.com order</p>
+</div>
+
+<div align ="center">
+  <img src="/photos/loader assembly.jpg" alt="Loader assembly" width="40%"/>
+  <p>3D model of the assembly</p>
+</div>
+
+The easiest way to cut the bottom off the water jug I found was with a standard utility knife. Attach the 45 degree PVC elbow using the flexible coupling.
+
+For the frame, start with general shape, don't worry about the exact alignment. Make sure that you add two T-nuts each to the extrusion in the middle that the pipe holder sits on and to the bottom of the side extrusion that the rod holder hangs under (4 total). See the assembly for clarification. 
+
+The 30 in extrusions are the legs, the 25 in extrusions are the long side, the 15 in extrusions are the short side, the 20 in extrusions are the legs of the jug holder, and the 8 in extrusions are the sides of the jug holder. I assembled the jug holder part separately from the rest of the frame and attached it, but it may be easier to assemble it directly on the frame as getting it into the T-nuts was kind of difficult. The 8 optional corner brackets that I used are the 4 at the top of each leg that connects the two side pieces, and 4 where the jug holder attaches (you can use one corner per leg instead of two).
+
+<div align ="center">
+  <img src="/photos/loader frame.jpg" alt="Frame of the loader" width="50%"/>
+  <p>Frame mid-assembly</p>
+</div>
+
+Once you have the general shape of the frame assembled, drop the water jug assembly in and connect the PVC pipe. Adjust the sides of the jug holder so the top of the water jug is roughly around the same height or below the top of the 20 in extrusions. Slide the printed pipe holder onto the pipe and screw it into the T-nuts using the M5x16 screws. Adjust the extrusions (vertically and horizontally) so that the pipe is naturally resting at 45 degrees.
+
+<div align ="center">
+  <img src="/photos/loader incomplete.jpg" alt="Loader mid-assembly" width="50%"/>
+  <p>The loader with the pipe before cutting</p>
+</div>
+
